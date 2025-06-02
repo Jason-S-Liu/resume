@@ -1,13 +1,22 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Doctor of Philosophy in Civil Engineering
+  uni: Chongqing University
+  duration: Sept, 2024 &mdash; Present
+  summary: Supervised by Prof. Cruz Y. Li
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Engineering in Civil Engineering
+  uni: Shijiazhuang Tiedao University
+  duration: Sept, 2021 &mdash; Jun, 2024
+  awards:
+    - award: National Scholarship of China
+    - award: Top Ten Academic Excellence Award (1st Edition)
+  summary: Supervised by Prof. Qingkuan Liu
+
+- degree: Bachelor of Engineering in Civil Engineering
+  uni: Hebei University of Science and Technology
+  duration: Sept, 2017 &mdash; Jun, 2021
+  awards:
+    - award: Merit Student Award
+    - award: Outstanding Student Cadre
+    - award: First-Class Scholarship
+  
